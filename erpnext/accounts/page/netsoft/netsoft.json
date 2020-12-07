@@ -1,0 +1,26 @@
+{
+ "content": null,
+ "creation": "2020-11-30 20:01:35.531983",
+ "docstatus": 0,
+ "doctype": "Page",
+ "idx": 0,
+ "modified": "2020-11-30 20:01:35.531983",
+ "modified_by": "Administrator",
+ "module": "Accounts",
+ "name": "netsoft",
+ "owner": "Administrator",
+ "page_name": "netsoft",
+ "roles": [
+  {
+   "role": "Administrator"
+  },
+  {
+   "role": "System Manager"
+  }
+ ],
+ "script": null,
+ "standard": "Yes",
+ "style": null,
+ "system_page": 0,
+ "title": "Net Flix"
+}
