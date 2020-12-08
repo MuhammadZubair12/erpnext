@@ -187,16 +187,16 @@ def get_data():
 			"description": "Menu, Orders and Table Reservations."
 		},
 
-		{
-			"module_name": "Help",
-			"category": "Administration",
-			"label": _("Learn"),
-			"color": "#FF888B",
-			"icon": "octicon octicon-device-camera-video",
-			"type": "module",
-			"is_help": True,
-			"description": "Explore Help Articles and Videos."
-		},
+		# {
+		# 	"module_name": "Help",
+		# 	"category": "Administration",
+		# 	"label": _("Learn"),
+		# 	"color": "#FF888B",
+		# 	"icon": "octicon octicon-device-camera-video",
+		# 	"type": "module",
+		# 	"is_help": True,
+		# 	"description": "Explore Help Articles and Videos."
+		# },
 		{
 			"module_name": 'Marketplace',
 			"category": "Places",
