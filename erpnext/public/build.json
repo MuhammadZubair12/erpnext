@@ -52,7 +52,14 @@
         "public/js/hub/hub_factory.js",
         "public/js/call_popup/call_popup.js",
         "public/js/utils/dimension_tree_filter.js"
-    ],
+	],
+	
+	"js/Chart.js":[
+		"public/js/Chart.js"
+	],
+	"js/chartjs-plugin-datalabels.js":[
+		"public/js/chartjs-plugin-datalabels.js"
+	],
     "js/item-dashboard.min.js": [
         "stock/dashboard/item_dashboard.html",
         "stock/dashboard/item_dashboard_list.html",

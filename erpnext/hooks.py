@@ -15,7 +15,12 @@ app_logo_url = '/assets/erpnext/images/boutique.png'
 
 develop_version = '12.x.x-develop'
 
-app_include_js = "assets/js/erpnext.min.js"
+app_include_js = [
+	"assets/js/erpnext.min.js",
+	"assets/js/Chart.js",
+	"assets/js/chartjs-plugin-datalabels.js"
+
+]
 app_include_css = "assets/css/erpnext.css"
 app_include_css = "assets/css/img.css"
 web_include_js = "assets/js/erpnext-web.min.js"
