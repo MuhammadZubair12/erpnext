@@ -365,6 +365,7 @@ erpnext/accounts/notification/notification_for_new_fiscal_year/notification_for_
 erpnext/accounts/page/__init__.py
 erpnext/accounts/page/bank_reconciliation/__init__.py
 erpnext/accounts/page/bank_reconciliation/bank_reconciliation.py
+erpnext/accounts/page/netsoft/__init__.py
 erpnext/accounts/page/pos/__init__.py
 erpnext/accounts/print_format/__init__.py
 erpnext/accounts/print_format/bank_and_cash_payment_voucher/__init__.py
